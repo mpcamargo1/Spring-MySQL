@@ -1,2 +1,2 @@
-# Spring-Tutorial-
-MySQL - Java
+# Spring-MySQL-
+Estudo realizado do framework Spring
